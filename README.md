@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h1 align="center">Hi 👋, I'm Victor Gouveia</h1>
 <h3 align="center">A passionate developer from Venezuela</h3>
 
@@ -22,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgm21&show_icons=true&locale=en&layout=compact" alt="victorgm21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=victorgm21&show_icons=true&locale=en" alt="victorgm21" /></p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
